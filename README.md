@@ -1,4 +1,4 @@
-# Informatica
+# Informatica GPI 1° Semestre
 
 # Aprendizado Informática FATEC - São José dos Campos 
 
