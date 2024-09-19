@@ -31,7 +31,6 @@ Sprint | Previsão | Status| Histórico|
 
 
 # Equipe
-![Uploading image.png…]()
 
 
 # Objetivo do Projeto
