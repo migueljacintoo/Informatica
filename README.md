@@ -78,6 +78,9 @@ square&logo=github&logoColor=white)](https://github.com/MariaGabrielaReis)     |
 
    
 
+![Captura de tela 2024-11-21 195931](https://github.com/user-attachments/assets/f12bfefe-6ccf-4625-8d00-0ac383fcf933)
+
+
 ![image](https://github.com/user-attachments/assets/7a9690dd-74e6-4cf8-a82e-7eeca5cfd5b6)
 
 
