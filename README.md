@@ -86,5 +86,5 @@ square&logo=github&logoColor=white)](https://github.com/MariaGabrielaReis)     |
 
 AULA POWER APPS
 
-https://github.com/user-attachments/assets/7e76fe93-ff39-463e-8ff6-1630a8fac6a5
+
 
