@@ -1,4 +1,5 @@
-![Uploading image.png…]()
+![b6bae5b8-49ba-4586-bf19-4f718c0f1189](https://github.com/user-attachments/assets/85e720c8-399e-44c4-9769-b8cdc6c70884)
+
 
 
 # Informatica GPI 1° Semestre
