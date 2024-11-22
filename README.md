@@ -1,3 +1,5 @@
+https://teams.microsoft.com/l/message/19:c2ef46fe-b662-46e4-a723-02f622bb5d21_f40ce57f-3b8d-4a07-a951-d0e01a9caa77@unq.gbl.spaces/1732234099334?context=%7B%22contextType%22%3A%22chat%22%7D
+
 # Informatica GPI 1° Semestre
 
 # Aprendizado Informática FATEC - São José dos Campos 
